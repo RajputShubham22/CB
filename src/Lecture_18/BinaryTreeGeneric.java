@@ -43,8 +43,7 @@ public class BinaryTreeGeneric {
 
     }
 
-
-    public int diameter1(Node node){
+       public int diameter1(Node node){
         if(node==null){
             return 0;
         }
